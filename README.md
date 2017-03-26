@@ -7,14 +7,14 @@
 
 ## How to use?
 
- *run **__init__.py   and enjoy
+* run **__init__.py**   and enjoy
 
 
-##to control in difficulty 
+## to control in difficulty 
 
- modify this **"lvl="** in **__init__.py** line **31**
+###### modify this **"lvl="** in **__init__.py** line **31**
 
->lvl = 5 
+> lvl = 5 
 
 
 
